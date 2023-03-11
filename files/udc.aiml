@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>Hello</pattern>
+    <template>Hello, How may I help you?</template>
+  </category>
+<category>
+    <pattern>What products do you offer on your website </pattern>
+    <template>We offer a wide range of products, including electronics, home goods, apparel, beauty and health products, and more.</template>
+</category>
+<category>
+    <pattern>How can I search for a specific product on your website </pattern>
+    <template>You can search for products by using the search bar on our homepage, or by browsing through the categories listed on the site.</template>
+</category>
+<category>
+    <pattern>Can you help me find a product that meets my specific needs </pattern>
+    <template>Yes, we can help you find products that meet your specific needs. Just tell us what you're looking for and we'll guide you to the appropriate products.</template>
+</category>
+<category>
+    <pattern>How can I track my order once it has been placed </pattern>
+    <template>You can track your order by logging into your account on our website and checking your order status. You'll also receive email updates as your order progresses.</template>
+</category>
+<category>
+    <pattern>Can I cancel my order after it has been placed </pattern>
+    <template>If your order has not yet been shipped, you can cancel it by contacting our customer service team. If the order has already been shipped, you may need to return the item once it arrives.</template>
+</category>
+<category>
+    <pattern>What is your return policy </pattern>
+    <template>We offer a 30-day return policy for most items, with some exceptions. Please see our website for details.</template>
+</category>
+<category>
+    <pattern>Can I exchange an item instead of returning it </pattern>
+    <template>Yes, we offer exchanges for certain items. Please see our website for details.</template>
+</category>
+<category>
+    <pattern>Do you offer free shipping </pattern>
+    <template>We offer free shipping on orders over a certain amount. Please see our website for details.</template>
+</category>
+<category>
+    <pattern>How long will it take for my order to arrive </pattern>
+    <template>Shipping times can vary depending on your location and the product you ordered. Please see our website for estimated delivery times.</template>
+</category>
+<category>
+    <pattern>What payment methods do you accept </pattern>
+    <template>We accept all major credit cards, as well as PayPal and Apple Pay.</template>
+</category>
+<category>
+    <pattern>Can I save items to my wishlist for future purchase </pattern>
+    <template>Yes, you can save items to your wishlist for future purchase.</template>
+</category>
+<category>
+    <pattern>Can I leave product reviews on your website </pattern>
+    <template>Yes, we encourage customers to leave product reviews on our website.</template>
+</category>
+<category>
+    <pattern>What is your price matching policy </pattern>
+    <template>We do not currently offer price matching.</template>
+</category>
+<category>
+    <pattern>Do you offer any discounts or promotions </pattern>
+    <template>Yes, we offer various discounts and promotions throughout the year. Please see our website for current offers.</template>
+</category>
+<category>
+    <pattern>Can I get help with sizing for apparel and shoes </pattern>
+    <template>Yes, we can provide sizing information for apparel and shoes. Please contact our customer service team for assistance.</template>
+</category>
+<category>
+    <pattern>What is your privacy policy </pattern>
+    <template>Our privacy policy outlines how we collect, use, and protect customer information. Please see our website for details.</template>
+</category>
+<category>
+    <pattern>How can I contact your customer service team </pattern>
+    <template>You can contact our customer service team through the chatbot or by emailing us at support@ecommercewebsite.com.</template>
+</category>
+<category>
+    <pattern>Do you offer gift wrapping </pattern>
+    <template>Yes, we offer gift wrapping for certain items. Please see our website for details.</template>
+</category>
+<category>
+    <pattern>Can I track my package using a tracking number </pattern>
+    <template>Yes, you can track your package using the tracking number provided in your order confirmation email.</template>
+</category>
+<category>
+    <pattern>How can I check the status of my order </pattern>
+    <template>You can check the status of your order by logging into your account on our website and checking your order status.</template>
+</category>
+<category>
+    <pattern>Can I get help with setting up an account </pattern>
+    <template>Yes, we can assist you with setting up an account on our website.</template>
+</category>
+<category>
+    <pattern>Can I get help with navigating your website </pattern>
+    <template>Yes, we can assist you with navigating our website.</template>
+</category>
+<category>
+    <pattern>What is your shipping policy </pattern>
+    <template>Our shipping policy outlines how we handle shipping and delivery of orders. Please see our website for details.</template>
+</category>
+<category>
+    <pattern>Do you offer international shipping </pattern>
+    <template>Yes, we offer international shipping to certain countries. Please see</template>
+</category>
+<category>
+    <pattern>Can I track my order from the mobile app </pattern>
+    <template>Yes, you can track your order from the mobile app.</template>
+</category>
+<category>
+    <pattern>What if I need to change my shipping address after placing my order </pattern>
+    <template>It depends on the specific circumstances of your order. We recommend contacting our customer service team as soon as possible if you need to make any changes to your order or have any questions about shipping. They will be able to assist you and let you know what options are available based on the status of your order.</template>
+</category>
+<category><pattern>Can I add items to my order after I've already placed it?</pattern><template><srai>WHAT IF I NEED TO CHANGE MY SHIPPING ADDRESS AFTER PLACING MY ORDER </srai></template></category>
+<category><pattern>Can I combine multiple orders to save on shipping?</pattern><template><srai>WHAT IF I NEED TO CHANGE MY SHIPPING ADDRESS AFTER PLACING MY ORDER </srai></template></category>
+<category>
+    <pattern>Do you offer a warranty for your products </pattern>
+    <template>We have a returns policy in place that allows you to return items within a certain period of time for a refund or exchange. If you receive a damaged or incorrect product, please contact our customer service team as soon as possible to initiate the return process. If you would like to exchange a product for a different color or size, please follow the instructions provided in your order confirmation email or contact our customer service team for assistance. Our team is always here to help you with any questions or concerns you may have about your order.</template>
+</category>
+<category><pattern>What if my product arrives damaged?</pattern><template><srai>DO YOU OFFER A WARRANTY FOR YOUR PRODUCTS </srai></template></category>
+<category><pattern>What if I receive the wrong product?</pattern><template><srai>DO YOU OFFER A WARRANTY FOR YOUR PRODUCTS </srai></template></category>
+<category><pattern>Can I exchange a product for a different color or size?</pattern><template><srai>DO YOU OFFER A WARRANTY FOR YOUR PRODUCTS </srai></template></category>
+<category>
+    <pattern>How are you </pattern>
+    <template>I am good and you?</template>
+</category>
+<category>
+    <pattern>Sallam</pattern>
+    <template>Hello</template>
+</category>
+<category>
+    <pattern>Thanks</pattern>
+    <template>Welcome </template>
+</category>
+</aiml>
